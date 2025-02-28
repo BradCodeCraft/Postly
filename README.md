@@ -12,6 +12,6 @@
 ### Class Diagram (Java)
 
 <img
-    src="https://github.com/BradCodeCraft/Postly/blob/Prod/design/Postly%20--%20Object%20Diagram.png?raw=true"
+    src="https://github.com/BradCodeCraft/Postly/blob/Prod/design/Postly%20--%20Class%20Diagram.png?raw=true"
     alt="Class Diagram for Java"
 />
